@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/comit-final-project/static/css/main.811b7885.chunk.css",
+    "main.js": "/comit-final-project/static/js/main.2c93e7e3.chunk.js",
+    "main.js.map": "/comit-final-project/static/js/main.2c93e7e3.chunk.js.map",
+    "runtime-main.js": "/comit-final-project/static/js/runtime-main.7b1809e5.js",
+    "runtime-main.js.map": "/comit-final-project/static/js/runtime-main.7b1809e5.js.map",
+    "static/js/2.b6226cb9.chunk.js": "/comit-final-project/static/js/2.b6226cb9.chunk.js",
+    "static/js/2.b6226cb9.chunk.js.map": "/comit-final-project/static/js/2.b6226cb9.chunk.js.map",
+    "index.html": "/comit-final-project/index.html",
+    "precache-manifest.e050fec887cb5a51d2c0c2b7f2870d9d.js": "/comit-final-project/precache-manifest.e050fec887cb5a51d2c0c2b7f2870d9d.js",
+    "service-worker.js": "/comit-final-project/service-worker.js",
+    "static/css/main.811b7885.chunk.css.map": "/comit-final-project/static/css/main.811b7885.chunk.css.map",
+    "static/media/cover.png": "/comit-final-project/static/media/cover.da722b56.png",
+    "static/media/ecotoxicolocy.jpg": "/comit-final-project/static/media/ecotoxicolocy.72781ead.jpg",
+    "static/media/fish.png": "/comit-final-project/static/media/fish.8cf8bcd2.png",
+    "static/media/metabolism.jpg": "/comit-final-project/static/media/metabolism.82e06a4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b1809e5.js",
+    "static/js/2.b6226cb9.chunk.js",
+    "static/css/main.811b7885.chunk.css",
+    "static/js/main.2c93e7e3.chunk.js"
+  ]
+}
